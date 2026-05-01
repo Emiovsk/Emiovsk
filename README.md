@@ -1,40 +1,56 @@
 <div align="center">
 
-# Hi, I'm Cesar Emilio 👋
-
-**Frontend Developer** · México 🇲🇽
-
-*Tecnológico de Estudios Superiores de Huixquilucan*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=378ADD&center=true&vCenter=true&width=500&lines=FRONTEND+DEVELOPER;Cesar+Emilio+Lopez+Rodriguez;Mexico+·+ITESHU+·+Emiovsk" alt="Banner animado"/>
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+```yaml
+nombre:     Cesar Emilio Lopez Rodriguez
+rol:        Frontend Developer
+ubicacion:  Mexico
+escuela:    Tecnologico de Estudios Superiores de Huixquilucan
+enfoque:    [ "Interfaces limpias", "Codigo ordenado", "Experiencia de usuario" ]
+aprendiendo:[ "React", "TypeScript", "Accesibilidad web" ]
+contacto:   L24090228@huixquilucan.tecnm.mx
+```
 
 ---
 
-### 📊 GitHub Stats
+### Tecnologias
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Emiovsk&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emiovsk&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+### Estadisticas
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Emiovsk&show_icons=true&hide_border=true&bg_color=0d1117&title_color=378ADD&icon_color=378ADD&text_color=8b949e&count_private=true" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emiovsk&layout=compact&hide_border=true&bg_color=0d1117&title_color=378ADD&text_color=8b949e" height="160"/>
+
+</div>
+
+<div align="center">
+
+![Racha](https://streak-stats.demolab.com?user=Emiovsk&theme=dark&hide_border=true&background=0d1117&ring=378ADD&fire=378ADD&currStreakLabel=378ADD&sideLabels=8b949e&dates=8b949e)
 
 </div>
 
 ---
 
 <div align="center">
-
-📬 **Contacto:** emiovsky2509@icloud.com
-
+<sub>Cesar Emilio Lopez Rodriguez · Frontend Developer · Mexico</sub>
 </div>
